@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "402. Remove K Digits", "402. Remove K Digits\402. Remove K Digits.csproj", "{DF365D4D-871F-4EE4-970A-86526AE0CE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "ClassLib\ClassLib.csproj", "{CC9AFF11-EC53-4763-A382-98DA85B2E169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF365D4D-871F-4EE4-970A-86526AE0CE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF365D4D-871F-4EE4-970A-86526AE0CE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF365D4D-871F-4EE4-970A-86526AE0CE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF365D4D-871F-4EE4-970A-86526AE0CE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9AFF11-EC53-4763-A382-98DA85B2E169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9AFF11-EC53-4763-A382-98DA85B2E169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9AFF11-EC53-4763-A382-98DA85B2E169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9AFF11-EC53-4763-A382-98DA85B2E169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB76CB8-C9AB-4955-8D68-780B26CC045D}
+	EndGlobalSection
+EndGlobal
